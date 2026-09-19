@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="220">
+  <defs>
+    <style>
+      .num { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 14px; fill: #8b949e; letter-spacing: 1px; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #e1e4e8; letter-spacing: 2px; }
+      .sub { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #8b949e; letter-spacing: 1px; }
+      
+      .active-line {
+        stroke: #58a6ff;
+        stroke-width: 2;
+        stroke-dasharray: 40;
+        stroke-dashoffset: 40;
+        animation: drawLine 3s ease-in-out infinite alternate;
+      }
+      .base-line {
+        stroke: #30363d;
+        stroke-width: 1;
+      }
+      
+      @keyframes drawLine {
+        0% { stroke-dashoffset: 40; }
+        100% { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="800" height="220" fill="transparent" />
+
+  <!-- Background Lines -->
+  <line x1="20" y1="20" x2="20" y2="200" class="base-line" />
+  
+  <!-- Active Animated Line (FiduScan) -->
+  <line x1="20" y1="20" x2="20" y2="60" class="active-line" />
+
+  <!-- Item 1 -->
+  <text x="40" y="35">
+    <tspan class="num">01 / </tspan>
+    <tspan class="title">FIDUSCAN</tspan>
+  </text>
+  <text x="40" y="55" class="sub">DIGITAL MEDIA FORENSICS</text>
+
+  <!-- Item 2 -->
+  <text x="40" y="85">
+    <tspan class="num">02 / </tspan>
+    <tspan class="title">TRACE</tspan>
+  </text>
+  <text x="40" y="105" class="sub">ENVIRONMENTAL INTELLIGENCE</text>
+
+  <!-- Item 3 -->
+  <text x="40" y="135">
+    <tspan class="num">03 / </tspan>
+    <tspan class="title">SONIC RIDE</tspan>
+  </text>
+  <text x="40" y="155" class="sub">SMART MOBILITY</text>
+  
+  <!-- Item 4 -->
+  <text x="40" y="185">
+    <tspan class="num">04 / </tspan>
+    <tspan class="title">CYBERSCOPE</tspan>
+  </text>
+  <text x="40" y="205" class="sub">SOC ASSESSMENT</text>
+</svg>

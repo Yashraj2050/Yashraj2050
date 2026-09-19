@@ -1,59 +1,85 @@
-<div align="center">
-  <img src="system-pulse.svg" alt="System Pulse" width="100%" />
+<br>
+
+<div align="left">
+  <h1>YASHRAJ KUYATE</h1>
+  <p style="font-family: monospace; letter-spacing: 1px; color: #8b949e;">AI & DATA SCIENCE ENGINEER</p>
+  <p>Engineering multimodal intelligence and secure forensic infrastructure.</p>
 </div>
 
-<div align="center">
-  <h1>Yashraj Kuyate</h1>
-  <p><b>Building at the intersection of AI, Data Science, and Digital Forensics.</b></p>
-</div>
+<br>
+<br>
 
 ---
 
-### Currently Building
-Engineering multimodal intelligence models and secure infrastructure for forensic verification at [FiduScan](https://github.com/yashrajdnyaneshwarkuyate/FiduScan).
+<br>
+
+### 01 / FIDUSCAN
+<p style="font-family: monospace; letter-spacing: 1px; color: #8b949e;">DIGITAL MEDIA FORENSICS</p>
+
+```text
+IMAGE ─┐
+AUDIO ─┼──► FASTAPI INFERENCE ──► EFFICIENTNET / VIT ──► GRAD-CAM ANALYSIS
+VIDEO ─┘
+```
+<p>Modular AI forensic infrastructure designed to detect AI-generated and manipulated media.</p>
+
+<br>
+<br>
 
 ---
 
-### Selected Systems
+<br>
 
-#### [FiduScan](https://github.com/yashrajdnyaneshwarkuyate/FiduScan)
-**AI Forensic Detection System**
-A modular AI forensic infrastructure designed to detect AI-generated and manipulated media. Combines EfficientNet and ViT with Grad-CAM for explainable probability mapping.
+### SELECTED SYSTEMS
 
-#### [CyberScope](https://github.com/yashrajdnyaneshwarkuyate/cyberscope)
-**Supervisory Analytics Tool for SOC Assessment**
-An offline, evidence-aware cybersecurity analysis system. Evaluates incomplete operational security evidence to reconstruct plausible attack paths without overclaiming. Built for SIH26157.
+<img src="project-index.svg" alt="Project Index" width="100%" />
 
-#### [Trace](https://github.com/yashrajdnyaneshwarkuyate/Carbon_Footprint)
-**AI-Powered Environmental Intelligence**
-A full-stack sustainability platform utilizing Google Gemini for automated footprint tracking via OCR and NLP. Engineered with Next.js, Supabase, and Prisma.
-
-#### [Sonic Ride](https://github.com/yashrajdnyaneshwarkuyate/sonic-ride)
-**Smart Bike Service Platform**
-Scalable monorepo architecture orchestrating Next.js, Express, PostgreSQL, and Redis. Features dynamic geospatial discovery utilizing Haversine formulas.
+<br>
+<br>
 
 ---
 
-### Research & Exploration
-- **Multimodal Intelligence:** Transitioning from unimodal classification to generalized vision-language models.
-- **Digital Forensics:** Enhancing SOC automation by reducing false positives in fragmented telemetry environments.
-- **Systems Architecture:** Designing high-availability microservices using Docker, FastAPI, and Next.js App Router.
+<br>
+
+### CURRENTLY EXPLORING
+
+- Deep Learning
+- Multimodal Intelligence
+- Cybersecurity
+- Agentic AI
+
+<br>
+<br>
 
 ---
 
-### Technical Areas
+<br>
 
-| Domain | Core Stack |
-|--------|------------|
-| **AI / ML** | PyTorch, TensorFlow, Gemini API, FastAPI |
-| **Security** | Digital Forensics, JWT, Cryptographic Validation |
-| **Data** | PostgreSQL, Prisma ORM, Redis, Supabase |
-| **Engineering** | TypeScript, Next.js, Express, Docker |
+### ENGINEERING LOG
+
+<p style="font-family: monospace; line-height: 1.8;">
+<b>2026</b><br>
+<span style="color: #8b949e;">09 —</span> Re-architected engineering portfolio to rigorous editorial standard.<br>
+<span style="color: #8b949e;">08 —</span> Deployed FiduScan infrastructure for multimodal digital forensics.<br>
+<span style="color: #8b949e;">07 —</span> Built Trace MVP utilizing Gemini AI for environmental intelligence.<br>
+<b>2025</b><br>
+<span style="color: #8b949e;">11 —</span> Implemented CyberScope telemetry parser for SIH26157 SOC Assessment.
+</p>
+
+<br>
+<br>
 
 ---
 
-<div align="center">
-  <a href="https://linkedin.com/in/yashrajkuyate">LinkedIn</a> • 
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://yashrajkuyate.com">Portfolio</a>
-</div>
+<br>
+
+### CONTACT
+
+<p style="font-family: monospace; letter-spacing: 1px;">
+<a href="https://github.com/yashrajdnyaneshwarkuyate">GITHUB</a> &nbsp;•&nbsp; 
+<a href="https://linkedin.com/in/yashrajkuyate">LINKEDIN</a> &nbsp;•&nbsp; 
+<a href="https://yashrajkuyate.com">PORTFOLIO</a> &nbsp;•&nbsp; 
+<a href="mailto:your.email@example.com">EMAIL</a>
+</p>
+
+<br>
