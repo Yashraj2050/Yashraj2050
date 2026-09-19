@@ -3,23 +3,8 @@
 <div align="left">
   <h1>YASHRAJ KUYATE</h1>
   <p style="font-family: monospace; letter-spacing: 1px; color: #8b949e;">AI & DATA SCIENCE ENGINEER</p>
-  <p>Engineering multimodal intelligence and secure forensic infrastructure.</p>
+  <p>Building applied AI systems, security tooling, and full-stack software.</p>
 </div>
-
-<br>
-<br>
-
----
-
-<br>
-
-### 01 / FIDUSCAN
-<p style="font-family: monospace; letter-spacing: 1px; color: #8b949e;">DIGITAL MEDIA FORENSICS</p>
-
-```text
-IMAGE ──► FASTAPI INFERENCE ──► EFFICIENTNET / VIT ──► GRAD-CAM ANALYSIS
-```
-<p>Modular AI forensic infrastructure designed to detect AI-generated and manipulated media.</p>
 
 <br>
 <br>
@@ -30,25 +15,10 @@ IMAGE ──► FASTAPI INFERENCE ──► EFFICIENTNET / VIT ──► GRAD-CA
 
 ### SELECTED SYSTEMS
 
-![Project Index](project-index.svg)
-
-- **[02 / TRACE](https://github.com/yashrajdnyaneshwarkuyate/Carbon_Footprint)** — Environmental Intelligence. A full-stack sustainability platform utilizing Gemini for automated footprint tracking via OCR and NLP.
-- **[03 / CYBERSCOPE](https://github.com/yashrajdnyaneshwarkuyate/cyberscope)** — Security Operations / Cybersecurity. An offline, evidence-aware cybersecurity analysis system for SOC Assessment.
-- **[04 / SONIC RIDE](https://github.com/yashrajdnyaneshwarkuyate/sonic-ride)** — Smart Mobility Platform. Scalable monorepo architecture orchestrating Next.js, Express, PostgreSQL, and Redis.
-
-<br>
-<br>
-
----
-
-<br>
-
-### CURRENTLY EXPLORING
-
-- Deep Learning
-- Multimodal Intelligence
-- Cybersecurity
-- Agentic AI
+- **[01 / FIDUSCAN](https://github.com/Yashraj2050/FiduScan)** — Digital media forensics pipeline for AI-generated image classification, explainability, and model artifact integrity using EfficientNet-B0 and Grad-CAM.
+- **[02 / TRACE](https://github.com/Yashraj2050/Trace)** — Full-stack sustainability application integrating Next.js, Supabase/PostgreSQL, Gemini for document analysis, and statistical carbon prediction.
+- **[03 / CYBERSCOPE](https://github.com/Yashraj2050/cyberscope)** — Offline cybersecurity investigation tool utilizing Tauri and FastAPI for structured security-event ingestion, attack graph reconstruction, and Scikit-learn gap scoring.
+- **[04 / SONIC RIDE](https://github.com/Yashraj2050/sonic-ride)** — Full-stack smart-bike service platform integrating Next.js, Express, Prisma, and PostgreSQL with JWT authentication for maintenance workflows.
 
 <br>
 <br>
@@ -57,14 +27,36 @@ IMAGE ──► FASTAPI INFERENCE ──► EFFICIENTNET / VIT ──► GRAD-CA
 
 <br>
 
-### ENGINEERING LOG
+### ENGINEERING FOCUS
 
 <p style="font-family: monospace; line-height: 1.8;">
-<b>2026</b><br>
-<span style="color: #8b949e;">08 —</span> Engineered FiduScan infrastructure for digital media forensics.<br>
-<span style="color: #8b949e;">07 —</span> Built Trace MVP utilizing Gemini AI for environmental intelligence.<br>
-<b>2025</b><br>
-<span style="color: #8b949e;">11 —</span> Implemented CyberScope telemetry parser for SIH26157 SOC Assessment.
+Applied AI<br>
+Computer Vision<br>
+Cybersecurity<br>
+Full-Stack Systems<br>
+Data & Machine Learning
+</p>
+
+<br>
+<br>
+
+---
+
+<br>
+
+### TECHNOLOGY STACK
+
+<p style="font-family: monospace; line-height: 1.8;">
+<b>Languages</b><br>
+Python · TypeScript · JavaScript · Rust<br><br>
+<b>AI / ML</b><br>
+PyTorch · Scikit-learn · OpenCV · Gemini<br><br>
+<b>Application</b><br>
+Next.js · React · FastAPI · Express · Node.js<br><br>
+<b>Data</b><br>
+PostgreSQL · Prisma · Supabase<br><br>
+<b>Infrastructure</b><br>
+Docker · Git · Tauri
 </p>
 
 <br>
@@ -77,8 +69,6 @@ IMAGE ──► FASTAPI INFERENCE ──► EFFICIENTNET / VIT ──► GRAD-CA
 ### CONTACT
 
 <p style="font-family: monospace; letter-spacing: 1px;">
-<a href="https://github.com/yashrajdnyaneshwarkuyate">GITHUB</a> &nbsp;•&nbsp; 
+<a href="https://github.com/Yashraj2050">GITHUB</a> &nbsp;&bull;&nbsp; 
 <a href="https://linkedin.com/in/yashrajkuyate">LINKEDIN</a>
 </p>
-
-<br>
