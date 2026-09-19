@@ -1,8 +1,9 @@
 <br>
 
 <div align="left">
-  <h1>YASHRAJ KUYATE</h1>
-  <p style="font-family: monospace; letter-spacing: 1px; color: #8b949e;">AI & DATA SCIENCE ENGINEER</p>
+  <img src="./assets/welcome.gif" alt="Yashraj Kuyate — AI & Data Science Engineer" width="100%">
+  <br>
+  <br>
   <p>Building applied AI systems, security tooling, and full-stack software.</p>
 </div>
 
