@@ -16,10 +16,11 @@
 
 ### SELECTED SYSTEMS
 
-- **[01 / FIDUSCAN](https://github.com/Yashraj2050/FiduScan)** — Digital media forensics pipeline for AI-generated image classification, explainability, and model artifact integrity using EfficientNet-B0 and Grad-CAM.
-- **[02 / TRACE](https://github.com/Yashraj2050/Trace)** — Full-stack sustainability application integrating Next.js, Supabase/PostgreSQL, Gemini for document analysis, and statistical carbon prediction.
-- **[03 / CYBERSCOPE](https://github.com/Yashraj2050/cyberscope)** — Offline cybersecurity investigation tool utilizing Tauri and FastAPI for structured security-event ingestion, attack graph reconstruction, and Scikit-learn gap scoring.
-- **[04 / SONIC RIDE](https://github.com/Yashraj2050/sonic-ride)** — Full-stack smart-bike service platform integrating Next.js, Express, Prisma, and PostgreSQL with JWT authentication for maintenance workflows.
+<img src="./assets/project-index.gif" alt="Selected systems: FiduScan, Trace, CyberScope, Sonic Ride" width="100%">
+
+<p style="font-family: monospace; color: #8b949e;">
+**[01 / FIDUSCAN](https://github.com/Yashraj2050/FiduScan)** &nbsp;&bull;&nbsp; **[02 / TRACE](https://github.com/Yashraj2050/Trace)** &nbsp;&bull;&nbsp; **[03 / CYBERSCOPE](https://github.com/Yashraj2050/cyberscope)** &nbsp;&bull;&nbsp; **[04 / SONIC RIDE](https://github.com/Yashraj2050/sonic-ride)**
+</p>
 
 <br>
 <br>
@@ -30,12 +31,10 @@
 
 ### ENGINEERING FOCUS
 
-<p style="font-family: monospace; line-height: 1.8;">
-Applied AI<br>
-Computer Vision<br>
-Cybersecurity<br>
-Full-Stack Systems<br>
-Data & Machine Learning
+<img src="./assets/engineering-focus.gif" alt="Engineering focus: applied AI, computer vision, cybersecurity, full-stack systems, and data & machine learning" width="100%">
+
+<p style="font-family: monospace; color: #8b949e;">
+Applied AI &nbsp;&bull;&nbsp; Computer Vision &nbsp;&bull;&nbsp; Cybersecurity &nbsp;&bull;&nbsp; Full-Stack Systems &nbsp;&bull;&nbsp; Data & Machine Learning
 </p>
 
 <br>
